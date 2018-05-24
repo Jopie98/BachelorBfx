@@ -34,7 +34,7 @@ java -jar $GATK \
 # --------------------------------
 
 # Bash variables
-variable_name="Hello World!"
+variable_name="Hello World!!"
 echo $variable_name
 
 # if / else
